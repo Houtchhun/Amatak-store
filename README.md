@@ -1,4 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Amatak Store
+
+An e-commerce web application built with Next.js for our group final project.
+
+## Team Members
+
+- **Eng Sothy**
+- **Chhun Senghout**
+- **Tun Khikhe**
+- **Sim Vin**
+- **Chamnan Mongkul**
+
+## Project Overview
+
+Amatak Store is a modern e-commerce platform featuring:
+- Product catalog and search functionality
+- Shopping cart and checkout system
+- User authentication (signin/signup)
+- Payment processing
+- Order management
+- Admin dashboard
+- Responsive design with Tailwind CSS
+
+This project was bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app) and built using [Next.js](https://nextjs.org).
 
 ## Getting Started
 
@@ -16,9 +39,27 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+You can start editing the page by modifying `app/page.jsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Features
+
+- **Product Management**: Browse and search through products
+- **Shopping Cart**: Add/remove items, quantity management
+- **User Authentication**: Secure login and registration system
+- **Checkout Process**: Complete order processing with payment integration
+- **Order Management**: Track and manage customer orders
+- **Admin Panel**: Administrative interface for store management
+- **Responsive Design**: Mobile-first approach with Tailwind CSS
+
+## Tech Stack
+
+- **Frontend**: Next.js 15, React 19
+- **Styling**: Tailwind CSS
+- **UI Components**: Radix UI, Lucide React
+- **State Management**: React Context API
+- **Authentication**: Custom auth implementation
+
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load fonts.
 
 ## Learn More
 
